@@ -126,6 +126,13 @@ for headers you can use
 }
 ```
 
+if you want to pass the request body as raw data
+```json
+{
+  "source": "raw-request-body"
+}
+```
+
 and for query variables you can use
 ```json
 {
